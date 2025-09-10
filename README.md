@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on something interesting.
 - 📫 How to reach me ... I am still a kid. Probably, you may want to reach out to my parents.
 - 😄 Pronouns: He, his, him
-- ⚡ Fun fact: Did you know that banana is a berry? Now, what I don;t understand is... If a banana is a berry, why is it not called a banberry?
+- ⚡ Fun fact: Did you know that banana is a berry? Now, what I don't understand is... If a banana is a berry, why is it not called a banberry?
 
 <!---
 dhruvathejas/dhruvathejas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
